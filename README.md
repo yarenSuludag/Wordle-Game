@@ -1,4 +1,4 @@
- A Wordle-Style Game in Flutter
+# A Wordle-Style Game in Flutter
 
 A Flutter-based word game inspired by Wordle, integrated with Firebase for authentication and real-time data management. In this project, players can register, log in, and participate in game channels to challenge their word-guessing skills. The game provides visual feedback on each guess, calculates scores based on performance and time, and displays results in a competitive format.
 
